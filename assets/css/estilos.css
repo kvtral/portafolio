@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:"Roboto", sans-serif;
+}
+
+.grape {
+  font-family: 'Grape Nuts', cursive;
+}
+.logo img {
+  filter: invert();
+  width: 50%; 
+  height: auto;
+  padding-left: 3rem;
+}
+
+a span {
+  font-size: 1.8rem;
+  font-weight: 300;
+}
+
+.nav-link {
+  font-size: 1rem;
+  color: #fff;
+}
+
+header{
+  background-image: url(../img/header.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-shadow: 0px 3px 6px #707070;
+  opacity: 1;
+  text-align: left;
+  color: white;
+ /*  padding: 6rem 4rem;    */
+}
+
+.blockquote p {
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 3;
+}
+
+.blockquote-footer {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.exp div .fa-brands,.fa-solid {
+  font-size: 8rem;
+}
+
+
+
+
+
+footer {
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  padding: 4rem 4rem;
+  bottom: 0;
+  width: 100vw;
+  font-size: 2rem;
+}
+
+.foot {
+  font-size: 4rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.fa-linkedin, .fa-github,.fa-twitter {
+  color: #fff;
+}
